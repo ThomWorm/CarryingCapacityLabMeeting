@@ -1,4 +1,4 @@
-name: labMeetingCarryingCapacity
+name: lab_meeting_environment
 channels:
   - defaults
 dependencies:
@@ -7,4 +7,3 @@ dependencies:
   - pandas
   - matplotlib
   - scipy
-prefix: C:\Users\tworm\AppData\Local\anaconda3\envs\labMeetingCarryingCapacity
