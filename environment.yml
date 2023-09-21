@@ -1,9 +1,11 @@
-name: lab_meeting_environment
+name: labMeetingCarryingCapacity
 channels:
   - defaults
 dependencies:
-  - python=3.10
+  - python
   - ipykernel
   - pandas
   - matplotlib
   - scipy
+  - seaborn
+prefix: C:\Users\tworm\AppData\Local\anaconda3\envs\labMeetingCarryingCapacity
